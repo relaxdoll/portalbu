@@ -290,7 +290,7 @@ Whether you're a New or Existing Client - Our experts ensure that your assets ar
                     content3: null,
                     hasButton: true,
                     textOnButton: 'Inspection',
-                    buttonLink: 'https://inspection-bureauveritas.com',
+                    buttonLink: 'https://service-bureauveritas.com',
                     isSelect: false,
                 },
                 {
